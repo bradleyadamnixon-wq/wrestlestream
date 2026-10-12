@@ -1,0 +1,72 @@
+name: Publish WrestleStream and refresh verified videos
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wrestlestream-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out WrestleStream
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify the application
+        run: |
+          python -m unittest discover -s tests -v
+          node --check app.js
+          node --check sw.js
+          node tests/smoke_ui.js
+      - name: Refresh verified channels (scheduled or manual runs)
+        if: github.event_name != 'push'
+        id: refresh
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/update_catalogue.py
+      - name: Save new video catalogue
+        if: github.event_name != 'push' && steps.refresh.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalogue.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh official wrestling video catalogue"
+            git push
+          fi
+      - name: Prepare static site
+        run: |
+          mkdir -p _site
+          cp index.html app.js style.css sw.js manifest.webmanifest _site/
+          cp -R assets data _site/
+          touch _site/.nojekyll
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0e1018" />
+  <meta name="description" content="Your legal, free, worldwide professional wrestling video hub." />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <link rel="stylesheet" href="style.css" />
+  <title>WrestleStream — Free Wrestling Worldwide</title>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#discover" aria-label="WrestleStream home"><span class="brandmark">W</span><span>WRESTLE<span class="brand-accent">STREAM</span></span></a>
+    <div class="head-actions"><span class="free-pill"><span aria-hidden="true">●</span> LEGAL & FREE</span><button class="icon-button" id="settingsBtn" aria-label="Open settings" title="Settings">⚙</button></div>
+  </header>
+  <div id="offlineBanner" class="offline-banner" hidden>You're offline. Your saved lists and cached catalogue still work; video playback needs internet.</div>
+  <main id="app" tabindex="-1">
+    <section class="hero" id="hero">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="hero-inner"><span class="eyebrow"><span class="red-dot"></span> THE WORLD OF WRESTLING, ONE APP</span>
+        <h1>Every promotion.<br /><em>One ring.</em></h1>
+        <p>Discover full shows, classic matches, highlights and verified free live streams. From Japan to Britain, Mexico to America.</p>
+        <div class="hero-buttons"><button class="primary-btn" id="exploreBtn">Explore wrestling <span aria-hidden="true">→</span></button><button class="secondary-btn" id="watchlistBtn">♡ My watchlist</button></div>
+        <div class="hero-micro" id="catalogStatus">Loading verified videos…</div>
+      </div>
+      <div class="hero-belt" aria-hidden="true"><span>WS</span></div>
+    </section>
+    <section class="content" id="content" aria-live="polite"></section>
+  </main>
+  <nav class="bottom-nav" aria-label="Main navigation">
+    <button class="nav-btn active" data-tab="discover" aria-current="page"><span class="nav-icon">⌂</span><span>Discover</span></button>
+    <button class="nav-btn" data-tab="browse"><span class="nav-icon">▦</span><span>Browse</span></button>
+    <button class="nav-btn" data-tab="live"><span class="nav-icon">◉</span><span>TV Guide</span></button>
+    <button class="nav-btn" data-tab="watchlist"><span class="nav-icon">♡</span><span>My List</span></button>
+    <button class="nav-btn" data-tab="sources"><span class="nav-icon">◎</span><span>Sources</span></button>
+  </nav>
+  <dialog id="playerDialog" class="video-dialog"><div class="dialog-head"><div class="dialog-title" id="playerTitle">Video</div><button class="close-btn" id="closePlayer" aria-label="Close player">✕</button></div><div id="playerBox"></div><div class="dialog-actions"><a id="officialLink" target="_blank" rel="noopener noreferrer">Watch on official site ↗</a><button id="markWatched" class="small-outline">Mark watched ✓</button></div><p class="muted tiny">Playback is provided by the original publisher. Some videos cannot be embedded or may be restricted in the UK.</p></dialog>
+  <dialog id="settingsDialog" class="settings-dialog"><div class="dialog-head"><h2>Preferences</h2><button class="close-btn" id="closeSettings" aria-label="Close settings">✕</button></div>
+    <label class="setting"><span><strong>Hide spoilers</strong><small>Cover video titles, descriptions and thumbnails until you reveal them.</small></span><input type="checkbox" id="spoilerToggle" /></label>
+    <label class="setting"><span><strong>Exclude Shorts</strong><small>Hide videos identified as Shorts by their title or verified duration.</small></span><input type="checkbox" id="shortsToggle" /></label>
+    <label class="setting"><span><strong>Prefer full shows</strong><small>Sort full shows and matches first.</small></span><input type="checkbox" id="fullToggle" /></label>
+    <button class="secondary-btn settings-clear" id="clearHistory">Clear watched history</button>
+    <p class="muted tiny">Your watchlist and settings stay on this device. No account needed. This app does not download wrestling footage.</p>
+  </dialog>
+  <div id="toast" role="status" aria-live="polite" class="toast" hidden></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

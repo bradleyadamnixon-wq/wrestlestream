@@ -1,0 +1,10 @@
+[
+  {"id":"mlw","name":"MLW","country":"USA","region":"North America","channel_id":"UCNL6Rxxy-LtEdwH3YPbVS2g","url":"https://www.youtube.com/channel/UCNL6Rxxy-LtEdwH3YPbVS2g","auto":true},
+  {"id":"revpro","name":"RevPro","country":"UK","region":"Europe","channel_id":"UC72_D3TikcimB7TzyIBZnqw","url":"https://www.youtube.com/channel/UC72_D3TikcimB7TzyIBZnqw","auto":true},
+  {"id":"noah","name":"Pro Wrestling NOAH","country":"Japan","region":"Asia","channel_id":"UC0kNS_0C-3-Yle7KgG7b1Yg","url":"https://www.youtube.com/channel/UC0kNS_0C-3-Yle7KgG7b1Yg","auto":true},
+  {"id":"tna","name":"TNA Wrestling","country":"USA","region":"North America","url":"https://www.youtube.com/@TNAWrestling","auto":false},
+  {"id":"wwe","name":"WWE","country":"USA","region":"North America","url":"https://www.youtube.com/@WWE","auto":false},
+  {"id":"aew","name":"AEW","country":"USA","region":"North America","url":"https://www.youtube.com/@AEW","auto":false},
+  {"id":"njpw","name":"NJPW","country":"Japan","region":"Asia","url":"https://www.njpwworld.com/","auto":false},
+  {"id":"cmll","name":"CMLL","country":"Mexico","region":"North America","url":"https://cmll.com/","auto":false}
+]

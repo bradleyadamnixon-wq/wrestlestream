@@ -1,0 +1,13 @@
+{
+  "generated_at": null,
+  "mode": "starter",
+  "notice": "Curated starter library. Automated feeds begin after repository deployment and first successful update.",
+  "videos": [
+    {"id":"yt-E0PvsiNpoz4","platform":"youtube","video_id":"E0PvsiNpoz4","title":"MLW Fusion: The NEW Skyscrapers Finally Speak! + CONTRA Civil War (Full Episode)","promotion":"MLW","source_id":"mlw","country":"USA","published":"2026-07-11T00:00:00Z","type":"Full show","duration_seconds":null,"url":"https://www.youtube.com/watch?v=E0PvsiNpoz4","is_live":false},
+    {"id":"yt-8hOLLN_Jkc0","platform":"youtube","video_id":"8hOLLN_Jkc0","title":"The Righteous In Action | TNA Xplosion July 10, 2026","promotion":"TNA Wrestling","source_id":"tna","country":"USA","published":"2026-07-14T00:00:00Z","type":"Match / segment","duration_seconds":null,"url":"https://www.youtube.com/watch?v=8hOLLN_Jkc0","is_live":false},
+    {"id":"yt-FNUPQk3xC-c","platform":"youtube","video_id":"FNUPQk3xC-c","title":"RevPro Recap | Women's Grand Prix 2026 (Show 1)","promotion":"RevPro","source_id":"revpro","country":"UK","published":"2026-07-29T00:00:00Z","type":"Highlights","duration_seconds":null,"url":"https://www.youtube.com/watch?v=FNUPQk3xC-c","is_live":false},
+    {"id":"yt-iTYrU_4P3hY","platform":"youtube","video_id":"iTYrU_4P3hY","title":"Naomichi Marufuji, Yoshiki Inamura & Katsumi Inahata vs KENOH, Kazuyuki Fujita & Hiroto Tsuruya","promotion":"Pro Wrestling NOAH","source_id":"noah","country":"Japan","published":"2026-07-13T00:00:00Z","type":"Match / segment","duration_seconds":null,"url":"https://www.youtube.com/watch?v=iTYrU_4P3hY","is_live":false},
+    {"id":"wwe-smackdown-2026-10-09","platform":"external","title":"Full SmackDown highlights: Oct. 9, 2026","promotion":"WWE","source_id":"wwe","country":"USA","published":"2026-10-09T00:00:00Z","type":"Highlights","duration_seconds":null,"url":"https://www.wwe.com/videos/full-smackdown-highlights-oct-9-2026","is_live":false}
+  ],
+  "live": []
+}
