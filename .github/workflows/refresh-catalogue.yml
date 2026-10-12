@@ -70,3 +70,56 @@ jobs:
       - name: Publish Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Smoke-test published Android PWA
+        env:
+          WRESTLESTREAM_SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          import urllib.request
+
+          base = os.environ["WRESTLESTREAM_SITE_URL"].rstrip("/") + "/"
+          checks = {
+              "": "WrestleStream",
+              "manifest.webmanifest": None,
+              "app.js": None,
+              "style.css": None,
+              "sw.js": None,
+              "data/catalogue.json": None,
+              "data/sources.json": None,
+              "assets/icon-192.png": None,
+          }
+          for attempt in range(1, 11):
+              try:
+                  for path, expected in checks.items():
+                      url = base + path
+                      request = urllib.request.Request(
+                          url,
+                          headers={"User-Agent": "WrestleStream-PWA-Check/1.0", "Cache-Control": "no-cache"},
+                      )
+                      with urllib.request.urlopen(request, timeout=20) as response:
+                          body = response.read()
+                          if response.status != 200 or not body:
+                              raise RuntimeError(f"{path}: invalid HTTP response")
+                      if expected and expected not in body.decode("utf-8"):
+                          raise RuntimeError(f"{path}: expected application text missing")
+                      if path == "manifest.webmanifest":
+                          manifest = json.loads(body)
+                          if manifest.get("display") != "standalone" or not manifest.get("icons"):
+                              raise RuntimeError("PWA manifest missing standalone display or icons")
+                      if path == "data/catalogue.json":
+                          if not isinstance(json.loads(body).get("videos"), list):
+                              raise RuntimeError("Video catalogue missing videos list")
+                      if path == "assets/icon-192.png" and not body.startswith(b"\x89PNG\r\n\x1a\n"):
+                          raise RuntimeError("PWA icon is not a PNG")
+                  print(f"PASS: WrestleStream live site and all {len(checks)} assets accessible at {base}")
+                  break
+              except Exception as exc:
+                  print(f"Live-site check {attempt}/10: {exc}", flush=True)
+                  if attempt == 10:
+                      raise
+                  time.sleep(8)
+          PY
