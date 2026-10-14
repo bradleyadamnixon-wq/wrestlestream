@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-13T14:14:44Z",
+  "generated_at": "2026-10-14T11:56:21Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-3MIegBYOw80",
+      "platform": "youtube",
+      "video_id": "3MIegBYOw80",
+      "title": "WHO GETS THE TITLE SHOT?! Austin Aries Interrupts Matt Riddle! #Shorts #MLW",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-14T01:16:10+00:00",
+      "type": "Short",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=3MIegBYOw80",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-nU2XLXHFG8U",
+      "platform": "youtube",
+      "video_id": "nU2XLXHFG8U",
+      "title": "LEON SLATER vs ZOZAYA - 60 Minute Iron Man Match | Uprising 2024",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-13T15:22:36+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=nU2XLXHFG8U",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-2lQylchyEHk",
       "platform": "youtube",
@@ -157,7 +187,7 @@
       "id": "yt-GweqrtbNHUc",
       "platform": "youtube",
       "video_id": "GweqrtbNHUc",
-      "title": "Top 5 Moments | RevPro Live In London 112",
+      "title": "Top 5 Moments | RevPro Live In London 112 - 04/10/26",
       "promotion": "RevPro",
       "source_id": "revpro",
       "country": "UK",
