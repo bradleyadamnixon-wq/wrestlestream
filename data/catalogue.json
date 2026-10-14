@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-14T17:13:02Z",
+  "generated_at": "2026-10-14T21:43:08Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-ZsoWdkOvrks",
+      "platform": "youtube",
+      "video_id": "ZsoWdkOvrks",
+      "title": "Ikuro Kwon vs. Andrew Everett: 2026 Opera Cup Opening Round! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-14T21:15:01+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=ZsoWdkOvrks",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-u6vJtOoE3Og",
+      "platform": "youtube",
+      "video_id": "u6vJtOoE3Og",
+      "title": "8 SECONDS! JUMBO Obliterates Rich Moya! #Shorts #MLW",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-14T18:15:18+00:00",
+      "type": "Short",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=u6vJtOoE3Og",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-oorgH1Asf1Y",
       "platform": "youtube",
