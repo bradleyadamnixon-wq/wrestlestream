@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-14T21:43:08Z",
+  "generated_at": "2026-10-15T11:32:53Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-ztAQQzehJ9c",
+      "platform": "youtube",
+      "video_id": "ztAQQzehJ9c",
+      "title": "3 Surprising Additions To The Great British Tag League! | RevPro Recap: Live In Sheffield 27",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-15T07:51:08+00:00",
+      "type": "Highlights",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=ztAQQzehJ9c",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-NSla-ueU6Sc",
+      "platform": "youtube",
+      "video_id": "NSla-ueU6Sc",
+      "title": "GHC National Championship: Naomichi Marufuji (c) vs KENOH",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-10-15T00:41:00+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=NSla-ueU6Sc",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-ZsoWdkOvrks",
       "platform": "youtube",
