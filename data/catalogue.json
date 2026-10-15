@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-15T11:32:53Z",
+  "generated_at": "2026-10-15T17:03:24Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-rH8sw1vW03Y",
+      "platform": "youtube",
+      "video_id": "rH8sw1vW03Y",
+      "title": "Stephanie Vaquer vs Kanji |  FULL MATCH | RevPro x CMLL Fantastica Mania 2024",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-15T14:15:28+00:00",
+      "type": "Full match",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=rH8sw1vW03Y",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-9rUCYtxthYU",
+      "platform": "youtube",
+      "video_id": "9rUCYtxthYU",
+      "title": "Zack Sabre Jr vs Hechicero was MAGIC! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-15T13:00:32+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=9rUCYtxthYU",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-ztAQQzehJ9c",
       "platform": "youtube",
