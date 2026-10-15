@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-15T17:03:24Z",
+  "generated_at": "2026-10-15T21:25:09Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-0BXSEVrfh-E",
+      "platform": "youtube",
+      "video_id": "0BXSEVrfh-E",
+      "title": "Big Damo vs. Wolfgang: 2026 Opera Cup Opening Round! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-15T21:15:23+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=0BXSEVrfh-E",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-rH8sw1vW03Y",
       "platform": "youtube",
