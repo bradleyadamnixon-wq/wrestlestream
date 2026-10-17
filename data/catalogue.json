@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-17T10:47:28Z",
+  "generated_at": "2026-10-17T15:37:27Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-bCooY-MPOrE",
+      "platform": "youtube",
+      "video_id": "bCooY-MPOrE",
+      "title": "Tom Campbell Blind Ranking GOES WRONG 🫣 | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-17T14:15:36+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=bCooY-MPOrE",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-1V74MOPM-20",
       "platform": "youtube",
