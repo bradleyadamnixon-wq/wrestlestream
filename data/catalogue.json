@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-17T20:38:18Z",
+  "generated_at": "2026-10-18T11:08:40Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-1V74MOPM-20",
+      "platform": "youtube",
+      "video_id": "1V74MOPM-20",
+      "title": "KILLER KROSS ADDRESSES MLW NATION! Shotzi vs. Rina! | MLW Fusion (Full Episode)",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-17T22:00:09+00:00",
+      "type": "Full show",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=1V74MOPM-20",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-bCooY-MPOrE",
       "platform": "youtube",
@@ -15,21 +30,6 @@
       "type": "Other",
       "duration_seconds": null,
       "url": "https://www.youtube.com/watch?v=bCooY-MPOrE",
-      "is_live": false,
-      "embed_allowed": true
-    },
-    {
-      "id": "yt-1V74MOPM-20",
-      "platform": "youtube",
-      "video_id": "1V74MOPM-20",
-      "title": "KILLER KROSS ADDRESSES MLW NATION! Shotzi vs. Rina! | MLW Fusion (Full Episode)",
-      "promotion": "MLW",
-      "source_id": "mlw",
-      "country": "USA",
-      "published": "2026-10-16T14:46:35+00:00",
-      "type": "Full show",
-      "duration_seconds": null,
-      "url": "https://www.youtube.com/watch?v=1V74MOPM-20",
       "is_live": false,
       "embed_allowed": true
     },
