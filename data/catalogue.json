@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-19T13:20:23Z",
+  "generated_at": "2026-10-19T22:22:54Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-Grbb57heJEo",
+      "platform": "youtube",
+      "video_id": "Grbb57heJEo",
+      "title": "New Cruiserweight Champion Reaction & 2027 Schedule News! | Wrap Up: Fantastica Mania",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-19T18:00:12+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Grbb57heJEo",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-2Lt0zw35RRY",
       "platform": "youtube",
