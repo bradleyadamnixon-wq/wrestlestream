@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-18T20:46:26Z",
+  "generated_at": "2026-10-19T13:20:23Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-2Lt0zw35RRY",
+      "platform": "youtube",
+      "video_id": "2Lt0zw35RRY",
+      "title": "Mistico's Life Gets Even Worse 💀",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-19T13:00:37+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=2Lt0zw35RRY",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-yrRwHvHyLBo",
       "platform": "youtube",
