@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-19T22:22:54Z",
+  "generated_at": "2026-10-20T11:40:46Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-FHHyt5cIU8M",
+      "platform": "youtube",
+      "video_id": "FHHyt5cIU8M",
+      "title": "GHC Heavyweight Championship: Shane Haste (c) vs Tetsuya Naito",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-10-20T02:06:23+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=FHHyt5cIU8M",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-Grbb57heJEo",
       "platform": "youtube",
