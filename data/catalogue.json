@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-21T17:14:29Z",
+  "generated_at": "2026-10-21T21:44:50Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-riSLmNQwRAQ",
+      "platform": "youtube",
+      "video_id": "riSLmNQwRAQ",
+      "title": "New Champion Crowned! | Top 5 Moments - RevPro x CMLL Fantastica Mania 2026! 17/10/26",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-21T17:42:39+00:00",
+      "type": "Highlights",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=riSLmNQwRAQ",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-Fv8O0TBxTtY",
       "platform": "youtube",
