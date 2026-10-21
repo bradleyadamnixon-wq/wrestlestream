@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-20T21:39:00Z",
+  "generated_at": "2026-10-21T11:52:18Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-54-qDV4FaKc",
+      "platform": "youtube",
+      "video_id": "54-qDV4FaKc",
+      "title": "Matt Riddle vs. Mark Coffey: 2026 Opera Cup Opening Round! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-20T23:15:30+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=54-qDV4FaKc",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-d-IhQEzgj5c",
       "platform": "youtube",
