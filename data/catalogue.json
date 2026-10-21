@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-21T11:52:18Z",
+  "generated_at": "2026-10-21T17:14:29Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-Fv8O0TBxTtY",
+      "platform": "youtube",
+      "video_id": "Fv8O0TBxTtY",
+      "title": "We've Never Seen Luke Jacobs Move Like This! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-21T13:00:12+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Fv8O0TBxTtY",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-54-qDV4FaKc",
       "platform": "youtube",
