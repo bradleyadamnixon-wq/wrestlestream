@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-22T11:55:48Z",
+  "generated_at": "2026-10-22T17:12:36Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-bchoBT9i7Lk",
+      "platform": "youtube",
+      "video_id": "bchoBT9i7Lk",
+      "title": "Death Riders vs Flying Bryant Brothers | FULL MATCH |  14 Year Anniversary Show (29.08.26)",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-22T16:15:09+00:00",
+      "type": "Full match",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=bchoBT9i7Lk",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-l9pgWuahn8w",
+      "platform": "youtube",
+      "video_id": "l9pgWuahn8w",
+      "title": "You Can't Evade Hechicero Forever! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-22T13:01:29+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=l9pgWuahn8w",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-LyCoknXqrUo",
       "platform": "youtube",
