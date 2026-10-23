@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-23T11:42:13Z",
+  "generated_at": "2026-10-23T17:10:26Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-nsdGpbLfGPA",
+      "platform": "youtube",
+      "video_id": "nsdGpbLfGPA",
+      "title": "Could The Bryants Beat The Death Riders?! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-23T13:00:26+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=nsdGpbLfGPA",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-7gx9wvR96_g",
       "platform": "youtube",
