@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-22T21:37:54Z",
+  "generated_at": "2026-10-23T11:42:13Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-7gx9wvR96_g",
+      "platform": "youtube",
+      "video_id": "7gx9wvR96_g",
+      "title": "GHC Tag Team Championship: Tetsuya Naito & BUSHI (c) vs Manabu Soya & Yuki Iino",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-10-23T02:23:39+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=7gx9wvR96_g",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-KtKa8oRqJmY",
+      "platform": "youtube",
+      "video_id": "KtKa8oRqJmY",
+      "title": "Shotzi vs. Rina: MLW Women’s World Championship Match! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-22T23:00:35+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=KtKa8oRqJmY",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-bchoBT9i7Lk",
       "platform": "youtube",
