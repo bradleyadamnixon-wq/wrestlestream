@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-23T17:10:26Z",
+  "generated_at": "2026-10-23T21:26:13Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-QoqVCvu8M84",
+      "platform": "youtube",
+      "video_id": "QoqVCvu8M84",
+      "title": "Austin Aries to Matt Riddle: \"What Have You Done Lately?\" | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-23T19:35:22+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=QoqVCvu8M84",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-nsdGpbLfGPA",
       "platform": "youtube",
