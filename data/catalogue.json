@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-23T21:26:13Z",
+  "generated_at": "2026-10-24T11:04:21Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-Zd8lLz8FkPs",
+      "platform": "youtube",
+      "video_id": "Zd8lLz8FkPs",
+      "title": "CMLL Returns To The UK! Mistico, Hechicero and more! | RevPro Recap: Fantasticamania UK 2026, Show 1",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-24T07:06:57+00:00",
+      "type": "Highlights",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Zd8lLz8FkPs",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-QoqVCvu8M84",
       "platform": "youtube",
