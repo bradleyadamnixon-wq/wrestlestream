@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-25T11:33:40Z",
+  "generated_at": "2026-10-25T16:24:07Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-bAlYfyibG9k",
+      "platform": "youtube",
+      "video_id": "bAlYfyibG9k",
+      "title": "How Many Cruiserweight Champions Can Nino Bryant Name In 60 Seconds? | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-25T14:52:37+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=bAlYfyibG9k",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-hKjO7VdD27c",
+      "platform": "youtube",
+      "video_id": "hKjO7VdD27c",
+      "title": "Ospreay vs McIntyre, Ricochet vs Ospreay I & Mad Kurt Dabs On Suzuki! | This Week In REVPRO History",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-25T12:00:06+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=hKjO7VdD27c",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-o7aL7es5ffM",
       "platform": "youtube",
