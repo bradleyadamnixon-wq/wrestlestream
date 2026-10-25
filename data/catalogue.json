@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-24T20:52:01Z",
+  "generated_at": "2026-10-25T11:33:40Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-o7aL7es5ffM",
+      "platform": "youtube",
+      "video_id": "o7aL7es5ffM",
+      "title": "CHAMPION VS. CHAMPION! Austin Aries vs. Trevor Lee! Kamitani vs. Frost | MLW Fusion (Full Episode)",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-24T22:00:06+00:00",
+      "type": "Full show",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=o7aL7es5ffM",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-e_sCUBjc-Ls",
       "platform": "youtube",
@@ -210,21 +225,6 @@
       "type": "Other",
       "duration_seconds": null,
       "url": "https://www.youtube.com/watch?v=d-IhQEzgj5c",
-      "is_live": false,
-      "embed_allowed": true
-    },
-    {
-      "id": "yt-o7aL7es5ffM",
-      "platform": "youtube",
-      "video_id": "o7aL7es5ffM",
-      "title": "CHAMPION VS. CHAMPION! Austin Aries vs. Trevor Lee! Kamitani vs. Frost | MLW Fusion (Full Episode)",
-      "promotion": "MLW",
-      "source_id": "mlw",
-      "country": "USA",
-      "published": "2026-10-20T15:45:47+00:00",
-      "type": "Full show",
-      "duration_seconds": null,
-      "url": "https://www.youtube.com/watch?v=o7aL7es5ffM",
       "is_live": false,
       "embed_allowed": true
     },
