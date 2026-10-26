@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-26T13:06:50Z",
+  "generated_at": "2026-10-26T22:41:30Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-DyRFp9e7hJs",
+      "platform": "youtube",
+      "video_id": "DyRFp9e7hJs",
+      "title": "Matches confirmed for Porchester Hall, but has Mills taken on too much? | Wrap-Up: Live Southampton",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-26T18:00:35+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=DyRFp9e7hJs",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-hIvIZMZ-sRc",
+      "platform": "youtube",
+      "video_id": "hIvIZMZ-sRc",
+      "title": "Cameron Khai FINALLY Wins The Title... With A Little Help From HMD | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-26T14:00:00+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=hIvIZMZ-sRc",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-bAlYfyibG9k",
       "platform": "youtube",
