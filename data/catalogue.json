@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-27T12:14:59Z",
+  "generated_at": "2026-10-27T18:04:10Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-mXtpdjwzMLQ",
+      "platform": "youtube",
+      "video_id": "mXtpdjwzMLQ",
+      "title": "Jay Joshua Nearly Knocks Out Black Tiger! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-27T14:00:16+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=mXtpdjwzMLQ",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-YuzcSzVAsAc",
+      "platform": "youtube",
+      "video_id": "YuzcSzVAsAc",
+      "title": "Saya Kamitani DEFEATS Lady Frost! #Shorts",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-27T12:15:07+00:00",
+      "type": "Short",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=YuzcSzVAsAc",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-2OjwwcnIBjA",
       "platform": "youtube",
