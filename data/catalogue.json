@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-27T18:04:10Z",
+  "generated_at": "2026-10-27T22:15:53Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-bh7H4Xjxe6A",
+      "platform": "youtube",
+      "video_id": "bh7H4Xjxe6A",
+      "title": "Shotzi Issues a Challenge to STARDOM's Saya Kamitani! #Shorts",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-27T20:15:07+00:00",
+      "type": "Short",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=bh7H4Xjxe6A",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-mXtpdjwzMLQ",
       "platform": "youtube",
