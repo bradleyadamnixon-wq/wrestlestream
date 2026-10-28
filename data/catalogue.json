@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-27T22:15:53Z",
+  "generated_at": "2026-10-28T12:57:59Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-aAW5IVB1kuE",
+      "platform": "youtube",
+      "video_id": "aAW5IVB1kuE",
+      "title": "Lady Frost vs. Saya Kamitani: Full Match! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-10-27T23:15:08+00:00",
+      "type": "Full match",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=aAW5IVB1kuE",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-bh7H4Xjxe6A",
       "platform": "youtube",
