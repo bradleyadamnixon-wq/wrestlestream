@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-30T12:58:17Z",
+  "generated_at": "2026-10-30T22:22:35Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-xwcys4mSaqk",
+      "platform": "youtube",
+      "video_id": "xwcys4mSaqk",
+      "title": "Will Ospreay vs Leon Slater!  ⏪ REVPRO Throwback (Epic Encounter 2023)",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-10-30T14:00:23+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=xwcys4mSaqk",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-zbyIlbBOCZA",
       "platform": "youtube",
