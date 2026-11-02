@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-01T22:03:54Z",
+  "generated_at": "2026-11-02T15:57:43Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-pCal_mpaQns",
+      "platform": "youtube",
+      "video_id": "pCal_mpaQns",
+      "title": "GHC Heavyweight Championship: Eita (c) vs HAYATA",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-11-02T10:26:45+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=pCal_mpaQns",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-DoKWymI1uoU",
       "platform": "youtube",
