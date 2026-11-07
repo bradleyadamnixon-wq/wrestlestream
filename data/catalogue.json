@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-07T13:04:58Z",
+  "generated_at": "2026-11-07T21:53:02Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-mda02q9VuCs",
+      "platform": "youtube",
+      "video_id": "mda02q9VuCs",
+      "title": "United Empire, Mills vs Samuels and Oku vs Jacobs! | This Week In REVPRO History",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-07T15:30:38+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=mda02q9VuCs",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-u1oaStSIWfI",
+      "platform": "youtube",
+      "video_id": "u1oaStSIWfI",
+      "title": "Who Is The Greatest British Women's Champion? Aluna Plays Winner Stays On! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-07T14:00:39+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=u1oaStSIWfI",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-v14kvefC3oA",
       "platform": "youtube",
