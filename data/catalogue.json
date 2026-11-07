@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-06T19:26:14Z",
+  "generated_at": "2026-11-07T13:04:58Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-v14kvefC3oA",
+      "platform": "youtube",
+      "video_id": "v14kvefC3oA",
+      "title": "Matt Riddle Challenges Austin Aries! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-11-07T00:15:29+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=v14kvefC3oA",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-yYRmUQwOy1k",
       "platform": "youtube",
