@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-08T13:27:34Z",
+  "generated_at": "2026-11-08T22:07:53Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-Qy1ofV7VTHk",
+      "platform": "youtube",
+      "video_id": "Qy1ofV7VTHk",
+      "title": "One PERFECT Knee Changed The Match! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-08T14:00:11+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Qy1ofV7VTHk",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-mda02q9VuCs",
       "platform": "youtube",
