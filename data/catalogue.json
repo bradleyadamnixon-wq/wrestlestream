@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-09T06:34:39Z",
+  "generated_at": "2026-11-09T22:24:17Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-02epOAt3DXA",
+      "platform": "youtube",
+      "video_id": "02epOAt3DXA",
+      "title": "Reaction from a Successful DEBUT in Eastbourne! | Wrap-Up: Live in Eastbourne",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-09T18:00:27+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=02epOAt3DXA",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-YoMfPdZv2aU",
+      "platform": "youtube",
+      "video_id": "YoMfPdZv2aU",
+      "title": "NOAH Jr GRAND PRIX 2025: Ninja Mack vs Alejandro",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-11-09T06:35:42+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=YoMfPdZv2aU",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-Qy1ofV7VTHk",
       "platform": "youtube",
@@ -352,7 +382,7 @@
       "id": "yt-pCal_mpaQns",
       "platform": "youtube",
       "video_id": "pCal_mpaQns",
-      "title": "GHC Heavyweight Championship: Eita (c) vs HAYATA",
+      "title": "GHC Jr Heavyweight Championship: Eita (c) vs HAYATA",
       "promotion": "Pro Wrestling NOAH",
       "source_id": "noah",
       "country": "Japan",
