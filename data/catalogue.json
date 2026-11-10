@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-09T22:24:17Z",
+  "generated_at": "2026-11-10T19:45:33Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-SbDSoPP41-s",
+      "platform": "youtube",
+      "video_id": "SbDSoPP41-s",
+      "title": "Is There Any Move They Can't Counter?! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-10T14:47:09+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=SbDSoPP41-s",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-QrpUyoKY-ME",
+      "platform": "youtube",
+      "video_id": "QrpUyoKY-ME",
+      "title": "Backstage Reactions: Live in Eastbourne | 8th November, 2026",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-10T09:00:03+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=QrpUyoKY-ME",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-02epOAt3DXA",
       "platform": "youtube",
