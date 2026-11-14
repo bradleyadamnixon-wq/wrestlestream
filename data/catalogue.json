@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-13T19:44:21Z",
+  "generated_at": "2026-11-14T18:05:31Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-yYW1iOytpRM",
+      "platform": "youtube",
+      "video_id": "yYW1iOytpRM",
+      "title": "Ishii vs Keith Lee, Ospreay vs ZSJ & Trios Grand Prix Action | This Week In REVPRO History",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-14T14:15:23+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=yYW1iOytpRM",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-tauf8Bz32Cs",
+      "platform": "youtube",
+      "video_id": "tauf8Bz32Cs",
+      "title": "All-Action Tag Team Match! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-14T14:00:22+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=tauf8Bz32Cs",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-LiIw81NfrMs",
       "platform": "youtube",
