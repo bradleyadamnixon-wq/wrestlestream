@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-14T22:26:38Z",
+  "generated_at": "2026-11-15T18:52:37Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-3eEGLFl3_KY",
+      "platform": "youtube",
+      "video_id": "3eEGLFl3_KY",
+      "title": "Josh Bishop's Championship Address! MLW vs. STARDOM & Matt Riddle Reacts | MLW Fusion (Full Episode)",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-11-14T23:00:07+00:00",
+      "type": "Full show",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=3eEGLFl3_KY",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-yYW1iOytpRM",
       "platform": "youtube",
@@ -150,21 +165,6 @@
       "type": "Other",
       "duration_seconds": null,
       "url": "https://www.youtube.com/watch?v=xQ829l659v0",
-      "is_live": false,
-      "embed_allowed": true
-    },
-    {
-      "id": "yt-3eEGLFl3_KY",
-      "platform": "youtube",
-      "video_id": "3eEGLFl3_KY",
-      "title": "Josh Bishop's Championship Address! MLW vs. STARDOM & Matt Riddle Reacts | MLW Fusion (Full Episode)",
-      "promotion": "MLW",
-      "source_id": "mlw",
-      "country": "USA",
-      "published": "2026-11-11T02:03:51+00:00",
-      "type": "Full show",
-      "duration_seconds": null,
-      "url": "https://www.youtube.com/watch?v=3eEGLFl3_KY",
       "is_live": false,
       "embed_allowed": true
     },
