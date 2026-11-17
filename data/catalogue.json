@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-16T22:05:39Z",
+  "generated_at": "2026-11-17T07:56:56Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-kN-hZg170d4",
+      "platform": "youtube",
+      "video_id": "kN-hZg170d4",
+      "title": "Shotzi, ZAMAYA & Scarlett Bordeaux vs. H.A.T.E. & Lady Frost! | FULL MATCH | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-11-17T01:15:06+00:00",
+      "type": "Full match",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=kN-hZg170d4",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-V4TvWAeb6j4",
       "platform": "youtube",
