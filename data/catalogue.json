@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-18T07:31:40Z",
+  "generated_at": "2026-11-18T20:33:38Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-htv1BikwvTc",
+      "platform": "youtube",
+      "video_id": "htv1BikwvTc",
+      "title": "Should Big Daddy Be In The Hall Of Fame? Stories From Sheffield & More! RevP(r)odcast - Episode 4",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-18T17:15:00+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=htv1BikwvTc",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-Ki-9Qxra21E",
+      "platform": "youtube",
+      "video_id": "Ki-9Qxra21E",
+      "title": "The Second Powerbomb Was Even More Brutal Than The First 💀 | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-18T14:00:24+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Ki-9Qxra21E",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-sXRxr7ajQQA",
       "platform": "youtube",
