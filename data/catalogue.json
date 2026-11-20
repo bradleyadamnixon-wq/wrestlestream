@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-19T20:39:32Z",
+  "generated_at": "2026-11-20T07:19:17Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-2i-oIwwGtig",
+      "platform": "youtube",
+      "video_id": "2i-oIwwGtig",
+      "title": "400 POUNDS OF TROUBLE! JUMBO Demolishes Three Opponents At Once! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-11-19T22:15:18+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=2i-oIwwGtig",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-iypTuoMqdSg",
       "platform": "youtube",
