@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-21T19:17:56Z",
+  "generated_at": "2026-11-22T06:51:36Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-JSZ-sHDdtHg",
+      "platform": "youtube",
+      "video_id": "JSZ-sHDdtHg",
+      "title": "Matt Riddle vs. Big Damo Opera Cup Semifinal! Josh Bishop In Action! | MLW Fusion (Full Episode)",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-11-21T23:00:09+00:00",
+      "type": "Full show",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=JSZ-sHDdtHg",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-acOaFj2q-Vs",
       "platform": "youtube",
@@ -195,21 +210,6 @@
       "type": "Match / segment",
       "duration_seconds": null,
       "url": "https://www.youtube.com/watch?v=gTSV2ec-b-E",
-      "is_live": false,
-      "embed_allowed": true
-    },
-    {
-      "id": "yt-JSZ-sHDdtHg",
-      "platform": "youtube",
-      "video_id": "JSZ-sHDdtHg",
-      "title": "Matt Riddle vs. Big Damo Opera Cup Semifinal! Josh Bishop In Action! | MLW Fusion (Full Episode)",
-      "promotion": "MLW",
-      "source_id": "mlw",
-      "country": "USA",
-      "published": "2026-11-18T23:47:19+00:00",
-      "type": "Full show",
-      "duration_seconds": null,
-      "url": "https://www.youtube.com/watch?v=JSZ-sHDdtHg",
       "is_live": false,
       "embed_allowed": true
     },
