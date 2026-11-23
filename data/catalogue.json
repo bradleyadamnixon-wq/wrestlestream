@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-23T07:41:57Z",
+  "generated_at": "2026-11-23T23:55:25Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-JttiXQtXV9s",
+      "platform": "youtube",
+      "video_id": "JttiXQtXV9s",
+      "title": "Falcon Goes Too Far! | Top 5 Moments | Sheffield 28  - 05/11/26",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-23T18:40:30+00:00",
+      "type": "Highlights",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=JttiXQtXV9s",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-Likz-Bt0nU0",
+      "platform": "youtube",
+      "video_id": "Likz-Bt0nU0",
+      "title": "Michael Oku & Nino Bryant Went Crazy Against Greedy Souls! | REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-23T15:28:53+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Likz-Bt0nU0",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-PqbcLC5t5X4",
       "platform": "youtube",
