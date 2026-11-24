@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-23T23:55:25Z",
+  "generated_at": "2026-11-24T09:56:38Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-Nc1RwMESDIQ",
+      "platform": "youtube",
+      "video_id": "Nc1RwMESDIQ",
+      "title": "No DQ Match: BUSHI vs Jun Masaoka",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-11-24T02:54:15+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=Nc1RwMESDIQ",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-JttiXQtXV9s",
       "platform": "youtube",
