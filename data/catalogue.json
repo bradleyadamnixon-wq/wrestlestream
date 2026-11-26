@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-25T21:43:42Z",
+  "generated_at": "2026-11-26T08:22:27Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-YjUWh_umylw",
+      "platform": "youtube",
+      "video_id": "YjUWh_umylw",
+      "title": "Don Gato's CINCO DE MAYHEM 5-Way Match! | MLW Fusion",
+      "promotion": "MLW",
+      "source_id": "mlw",
+      "country": "USA",
+      "published": "2026-11-26T03:11:06+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=YjUWh_umylw",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-86yEhKW8Hi8",
+      "platform": "youtube",
+      "video_id": "86yEhKW8Hi8",
+      "title": "GHC Jr Heavyweight Championship: Eita (c) vs YO-HEY",
+      "promotion": "Pro Wrestling NOAH",
+      "source_id": "noah",
+      "country": "Japan",
+      "published": "2026-11-26T02:22:41+00:00",
+      "type": "Match / segment",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=86yEhKW8Hi8",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-6U2smuE4Gpo",
       "platform": "youtube",
