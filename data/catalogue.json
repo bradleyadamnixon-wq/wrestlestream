@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-26T08:22:27Z",
+  "generated_at": "2026-11-26T21:35:00Z",
   "mode": "public-rss",
   "notice": "YouTube official-source updates. UK restrictions checked only in API mode.",
   "videos": [
+    {
+      "id": "yt-XpRsrYl4RBo",
+      "platform": "youtube",
+      "video_id": "XpRsrYl4RBo",
+      "title": "How Long Should A Wrestling Show Be? Stories From Coventry & More! RevP(r)odcast - Episode 5",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-26T19:00:57+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=XpRsrYl4RBo",
+      "is_live": false,
+      "embed_allowed": true
+    },
+    {
+      "id": "yt-ei0luQ4WTkQ",
+      "platform": "youtube",
+      "video_id": "ei0luQ4WTkQ",
+      "title": "This Is How You Rub In A Victory 😂🕺| REVPRO",
+      "promotion": "RevPro",
+      "source_id": "revpro",
+      "country": "UK",
+      "published": "2026-11-26T14:00:08+00:00",
+      "type": "Other",
+      "duration_seconds": null,
+      "url": "https://www.youtube.com/watch?v=ei0luQ4WTkQ",
+      "is_live": false,
+      "embed_allowed": true
+    },
     {
       "id": "yt-YjUWh_umylw",
       "platform": "youtube",
